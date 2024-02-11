@@ -1,0 +1,53 @@
+/* .mainWrap{
+    display: grid;
+    grid-template-columns: 230px 1fr;
+} */
+
+.aside {
+    background: #1c1e29;
+    padding: 13px;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.asideInner {
+    display: flex;
+}
+
+.logo {
+    border-right: 1px solid #424242;
+    padding-right: 20px;
+}
+
+.logoImage {
+    height: 60px;
+}
+
+.clientsList {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.btn {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+}
+
+.leaveBtn {
+    background: #4aed88;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.leaveBtn:hover {
+    background: #2b824c;
+}

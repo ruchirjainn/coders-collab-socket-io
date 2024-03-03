@@ -6,7 +6,7 @@ Realtime-coders-collab(code editor) is a sophisticated web application built wit
 ![image](https://github.com/ruchirjainn/coders-collab-socket-io/assets/114685271/e0536662-1339-45ff-be10-55986d4c56d0)
 
 2) Code Editor Screen
-![image](https://github.com/ruchirjainn/coders-collab-socket-io/assets/114685271/db7c4bfd-f6ea-4583-a8ea-997352dcf444)
+![project6](https://github.com/ruchirjainn/coders-collab-socket-io/assets/114685271/ca3f2793-8493-4eea-8112-14ec1b2236a3)
 
 Installation
 1) clone the repository
